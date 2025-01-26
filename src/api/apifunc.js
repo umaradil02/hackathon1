@@ -1,8 +1,8 @@
 import toast from "react-hot-toast";
 
 // API Routes
-const loginRoute = "https://hackathon-backend-green.vercel.app/auth/login";
-const signupRoute = "https://hackathon-backend-green.vercel.app/auth/signup";
+const loginRoute = "https://hacakathon-bakend-5edb5ujt2-umaradil02s-projects.vercel.app/auth/login";
+const signupRoute = "https://hacakathon-bakend-5edb5ujt2-umaradil02s-projects.vercel.app/auth/signup";
 const registerRoute = "http://localhost:5000/auth/register";
 
 /**
